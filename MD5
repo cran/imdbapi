@@ -1,0 +1,15 @@
+591941f38f60c8e2292ea5cc4490458c *DESCRIPTION
+1e90d7ac6b64c76e7e035b5c86adeb0f *NAMESPACE
+013f331ba29434d696690425ec479506 *R/find.r
+c88b54131292ffb40d3c269e6dd91003 *R/get.r
+99b603b5f024ae7c80879d69659dbe76 *R/omdb_api_key&url.r
+d9ec6c69cc225f4b70c659ac04cf7dbf *R/search.r
+e9647f0bb07054b190eb0ff8ef229fe3 *man/find_by_id.Rd
+172871c8719b3165371f6cf943062165 *man/find_by_title.Rd
+604cf765c21f0b73a925fbdb7884f676 *man/get_actors.Rd
+4ffe7c72f41acc078435d6a6e12cca9b *man/get_countries.Rd
+d1cb5896f45e652a26bc0cc688ffe521 *man/get_directors.Rd
+cfa65826c9e387b9c5fd93ed8df51313 *man/get_genres.Rd
+9bad6bf0cad052b17fd8c17ab37f98dd *man/get_writers.Rd
+57920dcdb60f171706e481b337c875cd *man/omdb_api_key.Rd
+bd48c2081d2f3b44a15f77b040f8d5f6 *man/search_by_title.Rd
